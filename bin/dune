@@ -1,0 +1,4 @@
+(executable
+ (public_name password_maker)
+ (name main)
+ (libraries password_maker))
